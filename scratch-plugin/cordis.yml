@@ -2,4 +2,4 @@
 # 插件路径必须是绝对路径（patch 文件只贡献配置，不改变 loader 的解析目录）。
 - insert:
     - id: my-tool-plugin
-      name: '/Users/shandian/WebstormProjects/deepseek-harness/scratch-plugin/src/my-plugin.ts'
+      name: '/Users/mac_tianwen/WebstormProjects/deepseek-harness/scratch-plugin/src/my-plugin.ts'
